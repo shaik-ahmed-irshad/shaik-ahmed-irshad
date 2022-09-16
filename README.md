@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hi 👋, I'm Shaik Ahmed Irshad</h1>
+<h1 align="center">Hillow Hillow!! I'm Shaik </h1>
 <h3 align="center">Future Full-Stack Developer</h3>
 
 ![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node, React, Express, Mongo**
 
-- ⚡ Fun fact **I am Dumb!**
+- ⚡ Fun fact **I am human!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
