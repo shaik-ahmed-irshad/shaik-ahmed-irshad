@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-ahmed-irshad&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-ahmed-irshad" /> </p>
 
-<p align="left"> <a href="https://twitter.com/driven_ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/driven_ahmed?logo=twitter&style=for-the-badge" alt="driven_ahmed" /></a> </p>
+<p align="left"> <a href="https://twitter.com/driven_ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/driven_ahmed?logo=twitter&style=for-the-badge" alt="Ahmed__Irshad" /></a> </p>
 
 - 🔭 I’m currently working on **Reminder Tasky-App**
 
