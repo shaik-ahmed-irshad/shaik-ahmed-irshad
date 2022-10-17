@@ -5,11 +5,6 @@
 <!-- ![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif) -->
 <img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-ahmed-irshad&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-ahmed-irshad" /> </p> -->
-
-<!-- <h1 align="center">Hillow Hillow! I'm Shaik</h1>
-<h3 align="center">Future Full-Stack Developer</h3> -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-ahmed-irshad&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-ahmed-irshad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Ahmed__Irshad" target="_blank"><img src="https://img.shields.io/twitter/follow/Ahmed__Irshad?logo=twitter&style=for-the-badge" alt="Ahmed__Irshad" /></a> </p>
@@ -22,10 +17,6 @@
 - 👯 I’m looking to collaborate on **Front End Development**
 
 - 🤝 I’m looking for help with **Express, Mongo**
-
-- 📝 I regularly write articles on [https://medium.com/@edventurous.ahmed](https://medium.com/@edventurous.ahmed)
-
-- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **edventurous.ahmed@gmail.com**
 
