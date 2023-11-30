@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Express, Mongo**
 
-- 📫 How to reach me **edventurous.ahmed@gmail.com**
+- 📫 How to reach me **ahmed.code.ai@gmail.com**
 
 - ⚡ Fun fact **I am Dumb!**
 
